@@ -2,6 +2,16 @@
   margin-bottom: 0px;
 }
 
+.navbar-default .navbar-nav li a {
+  color: black;
+  font-size: 18px;
+}
+
+.navbar-brand{
+  color: black;
+  font-size: 20px;
+}
+
 .navbar-header a img  {
   background: url(http://i.imgur.com/u6yNeJB.jpg);
   height: 25px;
